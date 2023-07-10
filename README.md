@@ -1,8 +1,5 @@
 ### Hi there 👋 This is @Harsha-Vardhan-Tangudu
 
-<!--
-
-
 - 🔭 I’m currently doing BTECH at Amrita Vishwa VidyaPeetham
 - 🌱 I’m a Computer Science and Engineering Student
 - 👯 I’m looking to collaborate on doing Projects
@@ -10,4 +7,3 @@
 - 😄 Interested in doing IOT Projects
 - 📫 Reach me.....
 
--->
