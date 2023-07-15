@@ -14,7 +14,7 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 
 
       
-  <p style="display: inline-block;" align="center">
+
     <kbd>
       <kbd>Programming Languages</kbd>
       <br>
@@ -53,7 +53,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
       <br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </kbd>
-  
-  </p>
+
 
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
