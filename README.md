@@ -52,5 +52,5 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
   </kbd>
   <br>  <br>
 <div align=center>
-  <a href="https://www.linkedin.com/in/krishna-nerella-8038a425b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
+  <a href="https://github.com/Harsha-Vardhan-Tangudu"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
