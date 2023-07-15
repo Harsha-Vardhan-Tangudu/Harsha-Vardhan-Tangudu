@@ -50,6 +50,7 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
       <br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </kbd>
-
-
+  <br>
+<div align=center>
+  <a href="https://www.linkedin.com/in/krishna-nerella-8038a425b"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
