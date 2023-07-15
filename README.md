@@ -45,8 +45,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     </kbd>
-    <br>
-    <br>
     <kbd>
       <kbd>Tools</kbd>
       <br>
