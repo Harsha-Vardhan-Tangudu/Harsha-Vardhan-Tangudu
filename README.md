@@ -13,8 +13,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
    - GitHub:[ [@Harsha-Vardhan-Tangudu](https://github.com/Harsha-Vardhan-Tangudu)](https://github.com/Harsha-Vardhan-Tangudu)
 
 
-      
-<br>
 <br>
     <kbd>
       <kbd>Programming Languages</kbd>
