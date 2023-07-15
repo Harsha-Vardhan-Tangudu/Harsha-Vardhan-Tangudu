@@ -12,7 +12,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
    - LinkedIn: [[Harsha Vardhan Tangudu](https://www.linkedin.com/in/harsha-vardhan-tangudu)](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)
    - GitHub:[ [@Harsha-Vardhan-Tangudu](https://github.com/Harsha-Vardhan-Tangudu)](https://github.com/Harsha-Vardhan-Tangudu)
 
-<details>
 
       
   <p style="display: inline-block;" align="center">
@@ -57,5 +56,4 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
   
   </p>
 
-</details>
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
