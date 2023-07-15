@@ -9,6 +9,13 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 - 😄 I'm particularly enthusiastic about working on projects related to Internet of Things (IoT) and its applications.
 - 📫 You can reach me through the following channels:
 
+<div align=center>
+  <a href="[https://www.linkedin.com/in/krishna-nerella-8038a425b](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/krishna_nerella_?igshid=ZDc4ODBmNjlmNQ=="><img src="https://static.india.com/wp-content/uploads/2021/11/Instagram-Logo.jpg?impolicy=Medium_Resize&w=100&h=50" alt="Instagram" /></a>
+
+  <a href="mailto:nkrishna9912@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+  
+ 
    - LinkedIn: [[Harsha Vardhan Tangudu](https://www.linkedin.com/in/harsha-vardhan-tangudu)](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)
    - GitHub:[ [@Harsha-Vardhan-Tangudu](https://github.com/Harsha-Vardhan-Tangudu)](https://github.com/Harsha-Vardhan-Tangudu)
 
