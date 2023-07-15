@@ -13,7 +13,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
    - GitHub:[ [@Harsha-Vardhan-Tangudu](https://github.com/Harsha-Vardhan-Tangudu)](https://github.com/Harsha-Vardhan-Tangudu)
 
 <details>
-<summary>Tools</summary>
 
       
   <p style="display: inline-block;" align="center">
@@ -57,6 +56,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
   </kbd>
   
   </p>
-</div>
+
 </details>
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
