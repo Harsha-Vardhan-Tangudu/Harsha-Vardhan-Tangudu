@@ -15,7 +15,7 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 <details>
 <summary>Tools</summary>
 
-      <img width="30<div>
+      
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages</kbd>
@@ -52,7 +52,7 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
     <kbd>
       <kbd>Tools</kbd>
       <br>
-      <br>px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <br> <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </kbd>
   
