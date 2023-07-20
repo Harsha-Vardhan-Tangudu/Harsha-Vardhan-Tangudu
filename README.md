@@ -7,10 +7,6 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 - 👯 I’m interested in collaborating on projects that involve innovative ideas and cutting-edge technologies.
 - 🤔 I'm open to suggestions and support from the tech community to further develop my skills and knowledge.
 - 😄 I'm particularly enthusiastic about working on projects related to Internet of Things (IoT) and its applications.
-- 📫 You can reach me through the following channels:
-  
-   <div align=center>
-  <a href="https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
 
 
 
