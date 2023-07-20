@@ -9,8 +9,9 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 - 😄 I'm particularly enthusiastic about working on projects related to Internet of Things (IoT) and its applications.
 - 📫 You can reach me through the following channels:
   
-   - LinkedIn: [[Harsha Vardhan Tangudu](https://www.linkedin.com/in/harsha-vardhan-tangudu)](https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/)
-   - GitHub:[ [@Harsha-Vardhan-Tangudu](https://github.com/Harsha-Vardhan-Tangudu)](https://github.com/Harsha-Vardhan-Tangudu)
+   <div align=center>
+  <a href="https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
+
 
 
 <br>
@@ -51,6 +52,4 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   </kbd>
   <br>  <br>
-<div align=center>
-  <a href="https://www.linkedin.com/in/tangudu-harsha-vardhan-2714971aa/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>  <br>
 Feel free to connect with me if you have any questions, ideas, or opportunities to collaborate. Let's create something amazing together!
