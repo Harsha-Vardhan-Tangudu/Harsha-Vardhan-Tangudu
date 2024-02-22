@@ -6,7 +6,7 @@ I'm a Computer Science and Engineering student currently pursuing my B.Tech at A
 - 🌱 I’m always learning and exploring new technologies to stay up-to-date with the latest industry trends.
 - 👯 I’m interested in collaborating on projects that involve innovative ideas and cutting-edge technologies.
 - 🤔 I'm open to suggestions and support from the tech community to further develop my skills and knowledge.
-- 😄 I'm particularly enthusiastic about working on projects related to Internet of Things (IoT) and its applications.
+- 😄 I'm particularly enthusiastic about working on projects related to Software industry and its applications.
 
 
 
